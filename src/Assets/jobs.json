@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "company": "JP Morgan",
+    "logo": "jpmorgan.png",
+    "position": "Biotechnology Analyst",
+    "role": "Biotechnology Analyst",
+    "level": "Mid",
+    "experience": 1,
+    "salary":100000,
+    "location": "Remote",
+    "posted": "2023-10-15"
+  },
+  {
+    "id": 2,
+    "company": "Ag Biological",
+    "logo": "flp.jpeg",
+    "position": "Chief Executive Officer",
+    "role": "Chief Executive Officer",
+    "level": "Senior",
+    "experience": 0,
+    "salary": 20000,
+    "location": "Remote",
+    "posted": "2022-11-15"
+  },
+  {
+    "id": 3,
+    "company": "Benchling",
+    "logo": "myntra.png",
+    "position": "Product Design Leader",
+    "role": "Product Design Leader",
+    "level": "Midweight",
+    "experience": 3,
+    "salary": 40000,
+    "location": "New York",
+    "posted": "2022-07-15"
+  }
+]
+
+

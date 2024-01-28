@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.e0338d98.css",
+    "main.js": "/home/static/js/main.f0ef25eb.js",
+    "static/media/BG.mp4": "/home/static/media/BG.43bd1fceae7bb87d18de.mp4",
+    "static/media/Job2.png": "/home/static/media/Job2.cfd62d18b52b1af05cc0.png",
+    "static/media/cool-background.png": "/home/static/media/cool-background.8c252db8e4acab4196d4.png",
+    "static/media/tesla.png": "/home/static/media/tesla.07f612597196a0c119d9.png",
+    "static/media/sap.jpeg": "/home/static/media/sap.b2bc7f8625809466165a.jpeg",
+    "static/media/jpmorgan.png": "/home/static/media/jpmorgan.ad198f3eddec6f8660c5.png",
+    "static/media/flp.jpeg": "/home/static/media/flp.5f02dfcba9db57b63d0b.jpeg",
+    "static/media/synopsys.png": "/home/static/media/synopsys.bea76ee6b322b1da4d3d.png",
+    "static/media/oracle.png": "/home/static/media/oracle.c07667e36b072b6a4208.png",
+    "static/media/amazon.png": "/home/static/media/amazon.138c5b5e99765ffac1a1.png",
+    "static/media/tcs.webp": "/home/static/media/tcs.a7873527060d53dadef1.webp",
+    "static/media/accenture.jpeg": "/home/static/media/accenture.efd3e5718eac1fbe59e7.jpeg",
+    "static/media/paytm.png": "/home/static/media/paytm.fd7bf2f466023f3c3ace.png",
+    "static/media/ibm.jpeg": "/home/static/media/ibm.b700f9aef98d6a67d5ad.jpeg",
+    "static/media/cognizant.webp": "/home/static/media/cognizant.322b3a8a75fff5cbbc7d.webp",
+    "index.html": "/home/index.html",
+    "main.e0338d98.css.map": "/home/static/css/main.e0338d98.css.map",
+    "main.f0ef25eb.js.map": "/home/static/js/main.f0ef25eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0338d98.css",
+    "static/js/main.f0ef25eb.js"
+  ]
+}
