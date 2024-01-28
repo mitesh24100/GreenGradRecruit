@@ -1,7 +1,7 @@
 {
   "name": "GreenGradRecruit",
   "version": "0.1.0",
-  "homepage": "https://mitesh24100.github.io/GreenGradRecruit/home",
+  "homepage": "https://mitesh24100.github.io/GreenGradRecruit/",
   "private": true,
   "dependencies": {
     "@sanity/client": "^4.0.1",
